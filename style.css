@@ -73,7 +73,7 @@ h1{
 }
 
 p{
-    color: #484848;
+    color: black;
     width: 500px;
     margin-bottom: 40px;
     font-size:21px;
@@ -135,4 +135,5 @@ li>span{
 
 .set{
     margin-bottom: 8px;
+    color:white;
 }
